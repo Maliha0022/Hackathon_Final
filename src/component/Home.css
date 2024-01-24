@@ -1,0 +1,21 @@
+
+
+.heading {
+  text-align: center;
+}
+
+.user-section {
+  margin-top: 20px;
+}
+
+.user-data, .all-users {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.loading {
+  text-align: center;
+  font-style: italic;
+  color: #777;
+}
